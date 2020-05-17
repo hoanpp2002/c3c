@@ -49,5 +49,5 @@
     "configVersion": 1,
     "enableMetric": true,
     "metricHideBotAccountLink": false,
-    "herokuApplication": true,
+    "herokuApplication": "",
 }
