@@ -49,7 +49,5 @@
     "configVersion": 1,
     "enableMetric": true,
     "metricHideBotAccountLink": false,
-    "enableGlobalBan": true,
-    "hideUnknownCommandMessage": false,
-    "herokuApplication": ""
+    "herokuApplication": true,
 }
